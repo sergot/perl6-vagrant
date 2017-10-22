@@ -4,7 +4,7 @@ This small Vagrantfile and perl6.sh allows you to instantly
 have a virtual machine with rakudo (moar) and zef installed,
 so you can start working on your Perl 6 project immediatly,
 wherever you are, all you need is virtualbox and vagrant.
-Or when you don't want to have to many things on your host
+Or when you don't want to have too many things on your host
 machine. :)
 
 To set up the environment simply run:
